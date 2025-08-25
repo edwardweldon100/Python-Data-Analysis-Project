@@ -4,8 +4,9 @@ Python Data Analysis Project
 Introduction:
 My name is Ed and I am studying Data Science with Machine Learning at New York City Data Science Academy.
 
-Data:
-Kaggle: College tuition, diversity, and pay- https://www.kaggle.com/datasets/jessemostipak/college-tuition-diversity-and-pay?resource=download&select=tuition_cost.csv
+Dataset from Kaggle: College tuition, diversity, and pay- https://www.kaggle.com/datasets/jessemostipak/college-tuition-diversity-and-pay?resource=download&select=tuition_cost.csv
+
+Powerpoint Presentation: https://docs.google.com/presentation/d/1M_XS2InHEAINo3WQ5vH-csdwzta8qtKH/edit?slide=id.p1#slide=id.p1
 
 Project:
 Assessed how lucrative colleges are by comparing costs & salary potential for different schools of various types, states, sizes, and diversity.  Used Net Present Value to put all future college costs and career earnings in terms of today's dollars.
