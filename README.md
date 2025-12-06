@@ -7,11 +7,11 @@ My name is Ed and I am studying Data Science with Machine Learning at New York C
 **Dataset from Kaggle:**
 https://www.kaggle.com/datasets/jessemostipak/college-tuition-diversity-and-pay?resource=download&select=tuition_cost.csv
 
-**Powerpoint Presentation:**
-https://docs.google.com/presentation/d/1M_XS2InHEAINo3WQ5vH-csdwzta8qtKH/edit?slide=id.p1#slide=id.p1
-
 **Blog Post:**
 https://nycdatascience.com/blog/student-works/college-tuition-diversity-pay/
+
+**Powerpoint Presentation:**
+https://docs.google.com/presentation/d/1M_XS2InHEAINo3WQ5vH-csdwzta8qtKH/edit?slide=id.p1#slide=id.p1
 
 **Project:**
 Assessed how lucrative colleges are by comparing costs & salary potential for different schools of various types, states, sizes, and diversity.  
