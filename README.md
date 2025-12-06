@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/jessemostipak/college-tuition-diversity-and-pay?
 **Blog Post:**
 https://nycdatascience.com/blog/student-works/college-tuition-diversity-pay/
 
-**Powerpoint Presentation:**
+**PowerPoint Presentation:**
 https://docs.google.com/presentation/d/1M_XS2InHEAINo3WQ5vH-csdwzta8qtKH/edit?slide=id.p1#slide=id.p1
 
 **Project:**
