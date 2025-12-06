@@ -10,6 +10,9 @@ College tuition, diversity, and pay- https://www.kaggle.com/datasets/jessemostip
 **Powerpoint Presentation:**
 https://docs.google.com/presentation/d/1M_XS2InHEAINo3WQ5vH-csdwzta8qtKH/edit?slide=id.p1#slide=id.p1
 
+**Blog Post:**
+https://nycdatascience.com/blog/student-works/college-tuition-diversity-pay/
+
 **Project:**
 Assessed how lucrative colleges are by comparing costs & salary potential for different schools of various types, states, sizes, and diversity.  
 
