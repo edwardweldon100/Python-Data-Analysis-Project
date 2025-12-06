@@ -5,7 +5,6 @@ Python Data Analysis Project
 My name is Ed and I am studying Data Science with Machine Learning at New York City Data Science Academy.
 
 **Dataset from Kaggle:**
-College tuition, diversity, and pay
 https://www.kaggle.com/datasets/jessemostipak/college-tuition-diversity-and-pay?resource=download&select=tuition_cost.csv
 
 **Powerpoint Presentation:**
